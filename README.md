@@ -1,7 +1,7 @@
 
   # Kate Sanborn Personal Website
 
-  This is a code bundle for Personal Website from LinkedIn. The original project is available at https://www.figma.com/design/HZpPvoyaskQfFpXDGmWvq1/Personal-Website-from-LinkedIn.
+  This is a code bundle from Figma Make.
 
   ## Running the code
 
