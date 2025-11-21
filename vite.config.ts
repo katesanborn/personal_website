@@ -50,6 +50,7 @@
         '@': path.resolve(__dirname, './src'),
       },
     },
+    base: '/personal_website/',
     build: {
       target: 'esnext',
       outDir: 'build',
