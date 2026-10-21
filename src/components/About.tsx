@@ -16,7 +16,7 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-12">
           <div className="space-y-4">
             <p className="text-slate-700 leading-relaxed">
-              I am a second-year PhD student in Computer Science at Vanderbilt University.
+              I am a third-year PhD student in Computer Science at Vanderbilt University.
             </p>
             <p className="text-slate-700 leading-relaxed">
               My research interests broadly explore the intersection of hardware and software, with a focus on cyber-physical systems. I have published work in areas including semantic data tagging, ROS visualization, and human-computer interaction.
