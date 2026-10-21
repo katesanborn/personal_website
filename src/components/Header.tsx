@@ -37,7 +37,7 @@ export function Header() {
           </div>
 
           <div className="flex items-center gap-4">
-            <a href="mailto:klsanborn1@crimson.ua.edu" className="text-slate-600 hover:text-rose-700 transition-colors">
+            <a href="mailto:kate.l.sanborn@vanderbilt.edu" className="text-slate-600 hover:text-rose-700 transition-colors">
               <Mail className="w-5 h-5" />
             </a>
             <a href="https://www.linkedin.com/in/kate-sanborn" target="_blank" rel="noopener noreferrer" className="text-slate-600 hover:text-rose-700 transition-colors">
